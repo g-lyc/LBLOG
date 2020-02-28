@@ -3,3 +3,4 @@
 *.html linguist-language=python
 *.png linguist-language=python
 *.jpg linguist-language=python
+*.ts linguist-language=python
