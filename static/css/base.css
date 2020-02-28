@@ -1,0 +1,29 @@
+body{
+    background:#f3f3f;
+    padding-bottom: 70px;
+}
+
+.main{
+    background:#fff;
+    width:730px;
+    margin:0 auto;
+    overflow:hidden;
+    padding:10px;
+}
+
+.navbar-text{
+    text-align:center;
+}
+
+.foot-container{
+    padding:7px;
+    margin:0 auto;
+}
+
+.foot-title{
+    text-align:center;
+}
+
+.page-title{
+    text-align:center;
+}
